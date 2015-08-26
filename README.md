@@ -1,3 +1,3 @@
 # gitskills
 sssssssssssssssssssssss
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbb
